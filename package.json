@@ -2,7 +2,7 @@
 	"name": "react_router",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": " https://datingel.github.io/React_Router/",
+	"homepage": " https://Datingel.github.io/React_Router/",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"npm-install-global": "^1.0.0",
